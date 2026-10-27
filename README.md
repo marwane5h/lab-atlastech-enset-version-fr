@@ -1,4 +1,4 @@
-# 🚀 AtlasTech — Déploiement & Administration d'un Serveur Linux (Ubuntu 24.04 LTS)
+# AtlasTech — Déploiement & Administration d'un Serveur Linux (Ubuntu 24.04 LTS)
 
 ![Linux](https://img.shields.io/badge/OS-Ubuntu_24.04_LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
